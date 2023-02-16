@@ -36,20 +36,20 @@ These books were used when developing this class, so they might provide addition
 
 | Date | Topic | Notes |
 |------|-------|---------|
-|01/12/2022| Introduction to Python | |
-|01/19/2022| Introduction to Python | |
-|01/26/2022| Introduction to Python| |
-|02/02/2022| Biomedical Data Visualization| |
-|02/09/2022| Acquiring and Visualizing Data | |
-|02/16/2022| Acquiring and Visualizing Data | |
-|02/23/2022| Introduction to Machine Learning | |
-|03/02/2022| Ensemble Methods| |
-|03/09/2022| Ensemble Methods| |
-|03/16/2022| **No class** | Spring Break|
-|03/23/2022| Neural Networks| |
-|03/30/2022| Neural Networks| |
-|04/06/2022| Markerless Motion Tracking| |
-|04/13/2022| Applications | |
-|04/20/2022| Applications | |
-|04/27/2022| **No class** | Reading Days|
-|05/04/2022| **No class** | Finals week|
+|01/12/2023| Introduction to Python | |
+|01/19/2023| Introduction to Python | Assignment 1 |
+|01/26/2023| Introduction to Python|  |
+|02/02/2023| Biomechanical Data Visualization|  Assignment 2 |
+|02/09/2023| Acquiring and Visualizing Data | |
+|02/16/2023| Acquiring and Visualizing Data | Assignment 3 |
+|02/23/2023| Introduction to Machine Learning | Assignment 5 |
+|03/02/2023| Ensemble Methods| |
+|03/09/2023| Ensemble Methods| Assignment 6|
+|03/16/2023| **No class** | Spring Break|
+|03/23/2023| Neural Networks| |
+|03/30/2023| Neural Networks| Assignment 7 |
+|04/06/2023| Markerless Motion Tracking|  |
+|04/13/2023| Markerless Motion Tracking| Assignment 8|
+|04/20/2023| Applications | |
+|04/27/2023| **No class** | Reading Days|
+|05/04/2023| **No class** | Finals week|
