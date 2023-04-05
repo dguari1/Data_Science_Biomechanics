@@ -6,3 +6,6 @@ BME4050_2022/
 ./data/
 /data/
 data/
+./pose/
+/pose/
+pose/
